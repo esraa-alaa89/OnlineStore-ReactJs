@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OnlineStore-ReactJs/static/css/main.64a62e3f.css",
+    "main.js": "/OnlineStore-ReactJs/static/js/main.ce373dfd.js",
+    "static/js/453.a2379d03.chunk.js": "/OnlineStore-ReactJs/static/js/453.a2379d03.chunk.js",
+    "index.html": "/OnlineStore-ReactJs/index.html",
+    "main.64a62e3f.css.map": "/OnlineStore-ReactJs/static/css/main.64a62e3f.css.map",
+    "main.ce373dfd.js.map": "/OnlineStore-ReactJs/static/js/main.ce373dfd.js.map",
+    "453.a2379d03.chunk.js.map": "/OnlineStore-ReactJs/static/js/453.a2379d03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64a62e3f.css",
+    "static/js/main.ce373dfd.js"
+  ]
+}
